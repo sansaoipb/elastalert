@@ -109,7 +109,7 @@ alert_time_limit:
 #
 #      '':  # root logger
 #        level: WARN
-#          handlers:
-#            - console
-#            - file
+#        handlers:
+#          - console
+#          - file
 #        propagate: false
